@@ -38,9 +38,15 @@ I'm **Demetrio Aris**, a student of Software Development and Applied Informatics
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=demetrioaris&show_icons=true&theme=radical" alt="Demetrio's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demetrioaris&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=demetrioaris&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=demetrioaris&show_icons=true&theme=default" alt="Demetrio's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demetrioaris&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=demetrioaris&theme=default" alt="GitHub Streak" />
 </p>
 
 ## 🤝 Let's Connect
