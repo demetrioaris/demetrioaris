@@ -35,6 +35,14 @@ I'm **Demetrio Aris**, a student of Software Development and Applied Informatics
 
 - [Portfolio Website](https://demetrioaris.github.io/wdd131/project/index.html) – A responsive website showcasing my work.
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=demetrioaris&show_icons=true&theme=radical" alt="Demetrio's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demetrioaris&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=demetrioaris&theme=radical" alt="GitHub Streak" />
+</p>
+
 ## 🤝 Let's Connect
 
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darisgo/)
