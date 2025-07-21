@@ -34,7 +34,7 @@ I'm **Demetrio Aris**, a student of Software Development and Applied Informatics
 ## 📁 Featured Projects
 
 - [Portfolio Website](https://demetrioaris.github.io/wdd131/project/index.html) – A responsive website showcasing my work.
-- [E-commerce](https://dashing-boba-e1b545.netlify.app/) – A university web e-commerce project centered on a store specializing in camping equipment.
+- [SleepOutside E-commerce](https://dashing-boba-e1b545.netlify.app/) – A university web e-commerce project centered on a store specializing in camping equipment.
 
 ## 📈 GitHub Stats
 
