@@ -47,7 +47,7 @@ I'm **Demetrio Aris**, a student of Software Development and Applied Informatics
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=demetrioaris" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=demetrioaris&theme=default" alt="GitHub Streak" />
 </p>
 
 ## 🤝 Let's Connect
